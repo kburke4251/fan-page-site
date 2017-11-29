@@ -137,3 +137,7 @@ img {
 p.cen {
   text-align: center;
 }
+
+th {
+  background-color: #000000;
+}
